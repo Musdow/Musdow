@@ -5,6 +5,18 @@
 
 <h1 align="center">Hi 👋, I'm Mustafa özmen</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
+🔭I am currently taking software training (https://www.udemig.com/) and I want to move forward decisively in the sector.
+
+🌱 I'm currently studying software engineering and I'm still improving myself.
+
+🔮 
+I am currently working in the automotive industry and I want to move into this sector because of my interest in the software field.
+
+💬 Ask me about React JS,React Native,Javascript
+
+🤭 I love learning new things and software
+
+📫 How can you reach me ozmen@yaani.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
