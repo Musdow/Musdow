@@ -14,4 +14,6 @@
 
 Connect with me: 
 
- https://www.linkedin.com/in/mustafa-%C3%B6zmen-010446213/ 
+yaman_yusuf_7 https://www.linkedin.com/in/yamanyusuf/ software_master_
+
+angularjs bootstrap c css3 figma firebase gcp git html5 javascript mssql nodejs photoshop postman react reactnative redux sass tailwind typescript vuejs
