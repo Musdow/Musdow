@@ -11,4 +11,5 @@
 🤭 I love learning new things and software and I am determined to progress in this field.
 
 📫 How can you reach me ozmen@yaani.com
-Connect with me:
+
+Connect with me: 
