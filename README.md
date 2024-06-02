@@ -1,16 +1,15 @@
-### Hi there 👋
 
+Hi 👋, I'm Mustafa özmen!
+🔭I am currently working in the industry.
 
-**Musdow/Musdow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm currently studying software engineering and I'm still improving myself.
 
-Here are some ideas to get you started:
+🔮 I develop projects with React, Javascript & React Native.
 
-- 🔭 I’m currently working on ... front end
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💬 Ask me about React JS,React Native,Javascript
 
+🤭 I love learning new things and software
+
+📫 How can you reach me yusufyamanjob@gmail.com
+
+Connect with me:
