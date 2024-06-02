@@ -1,5 +1,5 @@
 
-Hi 👋, I'm Mustafa özmen!
+# Hi 👋, I'm Mustafa özmen #
 🔭I am currently working in the industry.
 
 🌱 I'm currently studying software engineering and I'm still improving myself.
