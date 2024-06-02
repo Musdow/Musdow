@@ -13,3 +13,5 @@
 📫 How can you reach me ozmen@yaani.com
 
 Connect with me: 
+
+ https://www.linkedin.com/in/mustafa-%C3%B6zmen-010446213/ 
