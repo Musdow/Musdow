@@ -14,6 +14,6 @@
 
 Connect with me: 
 
-yaman_yusuf_7 https://www.linkedin.com/in/yamanyusuf/ software_master_
+yaman_yusuf_7  #https://www.linkedin.com/in/yamanyusuf/# software_master_
 
 angularjs bootstrap c css3 figma firebase gcp git html5 javascript mssql nodejs photoshop postman react reactnative redux sass tailwind typescript vuejs
