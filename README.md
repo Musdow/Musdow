@@ -9,9 +9,9 @@
 
 🔭I am currently taking software training (https://www.udemig.com/) and I want to move forward decisively in the sector.
 
-🌱 I'm currently studying software engineering and I'm still improving myself.
+🌱 I am currently working in the automotive industry and I want to move into this sector because of my interest in the software field.
 
-🔮 I am currently working in the automotive industry and I want to move into this sector because of my interest in the software field.
+🔮 I develop projects with html5 , css3 , responsive & js.
 
 💬 Ask me about React JS,React Native,Javascript
 
