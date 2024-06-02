@@ -10,6 +10,5 @@ Hi 👋, I'm Mustafa özmen!
 
 🤭 I love learning new things and software
 
-📫 How can you reach me yusufyamanjob@gmail.com
-
+📫 How can you reach me ozmen@yaani.com
 Connect with me:
